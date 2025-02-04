@@ -53,9 +53,9 @@ Create a Vue 3 application that allows users to:
 - Simulate API requests (e.g., `https://jsonplaceholder.typicode.com/todos`).
 - Use `fetch` or `axios` for data retrieval and updates.
 
-### 8. GIT
+### 8. SAVE !IMPORTANT
 
--Create a pull request to the main branch on GIT HUB.
+-Save your work as a pull request to the main branch on GitHub.
 
 ## Additional Improvements (if time allows):
 
