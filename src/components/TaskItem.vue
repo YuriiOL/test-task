@@ -1,6 +1,8 @@
 <template>
   <RouterLink to="">
-    <li class="item">{{ item.id }} {{ item.title }} {{ item.completed }}</li>
+    <li class="item">
+      {{ props.item.id }} {{ props.item.title }} {{ props.item.completed }}
+    </li>
   </RouterLink>
 </template>
 
