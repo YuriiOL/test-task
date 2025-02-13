@@ -1,11 +1,11 @@
 <template>
-  <router-view />
+	<router-view />
 </template>
 
 <style scoped>
 nav {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 20px;
+	display: flex;
+	gap: 10px;
+	margin-bottom: 20px;
 }
 </style>
